@@ -1,6 +1,5 @@
 const mongoose=require('mongoose')
 
-//const connectionString='mongodb+srv://Hunny:hkah27731@taskmanager.sxc1gom.mongodb.net/Taskmanager?retryWrites=true&w=majority'
 
 const connectDB=(url)=>{
     return mongoose
