@@ -22,9 +22,7 @@ To run this app locally, follow these steps:
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript, React.js
 - **Backend:** Node.js, Express.js, MongoDB
-- **Authentication:** JSON Web Tokens (JWT)
 - **Version Control:** Git, GitHub
 
 ## Contributing
